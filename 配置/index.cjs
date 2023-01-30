@@ -43,6 +43,8 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2018-05-04' },
+        // 结婚纪念日
+        { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
@@ -55,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'wx96cbcdb273b9d585',
+      id: '',
     }
   ],
 
